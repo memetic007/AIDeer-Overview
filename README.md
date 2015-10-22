@@ -28,6 +28,6 @@ AIDeer consists of three main elements that exist as seperate Github repositorie
 
 ZeroMQ is used to communicate between the elements.
 
-My current implementation runs on two machines connected by an ethernet gigaswitch.
+My current implementation runs on two machines, one running Windows and one running Linux, connected by an ethernet gigaswitch.
 
 ![Architecture Diagram](http://i.imgur.com/vOMVw6K.png)
