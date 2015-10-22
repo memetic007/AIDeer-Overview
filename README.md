@@ -30,4 +30,4 @@ ZeroMQ is used to communicate between the elements.
 
 My current implementation runs on two machines connected by an ethernet gigaswitch.
 
-![Image of Yaktocat](![Architecture Diagram](http://i.imgur.com/vOMVw6K.png)
+![Architecture Diagram](http://i.imgur.com/vOMVw6K.png)
