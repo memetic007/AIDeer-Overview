@@ -18,7 +18,7 @@ inference and induction.
 
 #Basic Architecture
 
-AIDeer consists of three main elements:
+AIDeer consists of three main elements that exist as seperate Github repositories:
 
   - AIDeer-Unity3D, a Unity3D Project provides a game "world" that our AIDeer exists in.
 
