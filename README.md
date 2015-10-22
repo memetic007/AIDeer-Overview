@@ -16,3 +16,11 @@ intelligence by attempting to make it “conscious” (such as  single threaded 
 integer working set size), will result in a “sweet spot” in pruning the combinatoric explosion that plagues
 inference and induction.
 
+#Basic Architecture
+
+AIDeer consists of three main elements:
+*AIDeer-Unity3D, a Unity3D Project provides a game "world" that our AIDeer exists in.
+*AIDeer-Opencog, a python program that uses Opencog python bindings to create a "mind" for our AIDeer.
+*zmqswitch, a python program implements a switching point between potentially multiple Unity GameObjects and multiple AIDeer-Opencog programs.
+
+ZeroMQ is used to communicate between the elements.
