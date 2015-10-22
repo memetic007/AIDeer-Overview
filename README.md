@@ -16,6 +16,8 @@ intelligence by attempting to make it “conscious” (such as  single threaded 
 integer working set size), will result in a “sweet spot” in pruning the combinatoric explosion that plagues
 inference and induction.
 
+Here is a video of the AIDeer's behavior:  https://vimeo.com/142676583
+
 #Basic Architecture
 
 AIDeer consists of three main elements that exist as seperate Github repositories:
