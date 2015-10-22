@@ -27,3 +27,7 @@ AIDeer consists of three main elements that exist as seperate Github repositorie
   - zmqswitch, a python program implements a switching point between potentially multiple Unity GameObjects and multiple AIDeer-Opencog programs.
 
 ZeroMQ is used to communicate between the elements.
+
+My current implementation runs on two machines connected by an ethernet gigaswitch.
+
+![Image of Yaktocat](![Architecture Diagram](http://i.imgur.com/vOMVw6K.png)
