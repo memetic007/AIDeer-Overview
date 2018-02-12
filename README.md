@@ -19,14 +19,14 @@ inference and induction.
 Here is a video of the AIDeer's behavior:  https://vimeo.com/142676583
 
 #Basic Architecture
-
+[GitHub](http://github.com)
 AIDeer consists of three main elements that exist as seperate Github repositories:
 
-  - AIDeer-Unity3D, a Unity3D Project provides a game "world" that our AIDeer exists in.
+  - [AIDeer-Unity3D](https://github.com/memetic007/AIDeer-Unity3D), a Unity3D Project provides a game "world" that our AIDeer exists in.
 
-  - AIDeer-Opencog, a python program that uses Opencog python bindings to create a "mind" for our AIDeer.
+  - [AIDeer-Opencog](https://github.com/memetic007/AIDeer-Opencog), a python program that uses Opencog python bindings to create a "mind" for our AIDeer.
 
-  - zmqswitch, a python program implements a switching point between potentially multiple Unity GameObjects and multiple AIDeer-Opencog programs.
+  - [zmqswitch](https://github.com/memetic007/zmqswitch), a python program implements a switching point between potentially multiple Unity GameObjects and multiple AIDeer-Opencog programs.
 
 ZeroMQ is used to communicate between the elements.
 
